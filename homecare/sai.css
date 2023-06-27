@@ -1,0 +1,84 @@
+body {
+  margin: 0px;
+  border: 0px;
+}
+
+.flex-align {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+.company-logo {
+  width: 160px;
+  height: 110px;
+  padding-right: 10px;
+}
+
+.wlcme-head1 {
+  color: #30c5f2;
+  font-family: Roboto;
+  padding-right: 10px;
+}
+
+.wlcme-head2 {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.wlcme-para {
+  color: black;
+  font-family: Roboto;
+  font-size: 10px;
+}
+
+.bg-color {
+  background-color: #30c5f2;
+  height: 37vh;
+  width: 20vw;
+  padding-top: 10px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.book-appoint {
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  font-family: Sans-Serif;
+}
+
+input {
+  height: 2vh;
+  width: 15vw;
+  padding: 5px;
+  margin-bottom: 10px;
+  background-color: #83e0fc;
+  border-color: #30c5f2;
+}
+
+.msg-input {
+  height: 6vh;
+  width: 15vw;
+}
+
+.send-msg {
+  background-color: #fabf1b;
+  color: black;
+  width: 20vw;
+  height: 5vh;
+  padding-top: 4px;
+  font-size: 16px;
+  text-align: center;
+  font-family: Sans-Serif;
+}
+
+.brdr-line {
+  border-style: solid;
+  height: 47vh;
+  width: 20vw;
+  color: yellow;
+  padding-right: 20px;
+  margin-right: 60px;
+}
